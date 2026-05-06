@@ -136,3 +136,9 @@ Priority: High
 * Improve model accuracy with advanced NLP techniques
 * Use deep learning models (LSTM, BERT)
 * Expand dataset for better generalization
+
+## Conclusion 
+
+This project was completed during a Machine Learning Internship at Future Interns.
+
+The internship task focused on building a real-world NLP-based support ticket classification and prioritization system using Machine Learning and Natural Language Processing techniques.

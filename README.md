@@ -128,20 +128,7 @@ Priority: High
 
 ---
 
-## Task-Based Professional Updates
-
-After completing this project, you are encouraged to share a professional update on LinkedIn.
-
-Your post should include:
-
-* A brief overview of what you built (feature, module, or application)
-* Key technical learnings or challenges you solved
-* Screenshots or outputs demonstrating the workflow
-* Project link (GitHub repository)
-* Optional: A short demo video or screen recording to showcase functionality
-
-Tag and follow Future Interns to build your professional network.
-
+## Project link (https://github.com/ankitkumar8558011-alt/FUTURE_ML_02)
 ---
 
 ## Future Improvements
